@@ -41,7 +41,7 @@
 
 | Domain            | Technology Used                      |
 |------------------ |--------------------------------------|
-| Mobile Framework  | React Native (Expo)                  |
+| Mobile Framework  | Android Studio(java)                 |
 | Backend Services  | Node.js (data processing)            |
 | ML Integration    | TensorFlow Lite (MobileNet Model)    |
 | Data Management   | Local JSON (offline access)          |
