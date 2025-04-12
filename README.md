@@ -50,11 +50,6 @@
 
 ---
 
-## 📁 Project Structure
-
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -63,24 +58,27 @@
 - Expo CLI: `npm install -g expo-cli`
 
 ### Installation
-
+``` bash
 git clone https://github.com/PragadheeshM/water-footprint-analyzer.git
 cd water-footprint-analyzer
 npm install
 expo start
 Scan the QR code using the Expo Go app (iOS/Android) to launch the application
+```
 
-###🎯 Use Case & Impact
-Educates users on the hidden water costs of everyday food products.
+🎯 Use Case & Impact
+---
+-Educates users on the hidden water costs of everyday food products.
 
-Helps consumers make responsible choices based on environmental impact.
+-Helps consumers make responsible choices based on environmental impact.
 
-Supports UN Sustainable Development Goal 6: Clean Water & Sanitation.
+-Supports UN Sustainable Development Goal 6: Clean Water & Sanitation.
 
-Scalable for use in government sustainability programs, schools, and retail eco-labeling.
+-Scalable for use in government sustainability programs, schools, and retail eco-labeling.
 
-###🔍 Sample Dataset Entry
-json
+🔍 Sample Dataset Entry
+---
+```json
 {
   "product": "Apple",
   "green": 700,
@@ -89,64 +87,59 @@ json
   "total": 900
 }
 Each entry denotes water usage in liters per kilogram (L/kg).
+```
 
-###🌐 Languages Supported
-🇬🇧 English (default)
+🌐 Languages Supported
+---
+-🇬🇧 English (default)
+-🇮🇳 Tamil
+-🇮🇳 Hindi
+-🇮🇳 Telugu
+-🇮🇳 Bengali
+-🇮🇳 Kannada
+-🇮🇳 Malayalam
+-🇮🇳 Marathi
 
-🇮🇳 Tamil
-
-🇮🇳 Hindi
-
-🇮🇳 Telugu
-
-🇮🇳 Bengali
-
-🇮🇳 Kannada
-
-🇮🇳 Malayalam
-
-🇮🇳 Marathi
-
-###🧠 AI Model Integration
+🧠 AI Model Integration
+---
 Model: MobileNet (custom-trained on agricultural products)
 
 Inference: TFLite model integrated using React Native plugins
 
 Process: Detects object → Classifies label → Queries dataset
 
-###📊 Embedded Analytics (Power BI)
+📊 Embedded Analytics (Power BI)
+---
 Visual dashboards include:
 
-Water consumption breakdown (by color)
+-Water consumption breakdown (by color)
 
-Product-wise comparison
+-Product-wise comparison
 
-User interaction trends
+-User interaction trends
 
-Analytics can be customized based on organizational or government needs.
---
+-Analytics can be customized based on organizational or government needs.
+
+
 🧑‍💻 Authors
+---
 Pragadheesh – AI & App Developer
 
 Churchill L. – Backend & Data Processing
 
 Prasanth KR. – Design & Visualization
 
-Developed by Final Year B.Tech AI & DS students at M. Kumarasamy College of Engineering
+Developed by pre-Final Year B.Tech AI & DS students at M. Kumarasamy College of Engineering,karur
 
-
---
-CSR sustainability programs
-
-Governmental awareness campaigns
-
-Smart village/smart city digital initiatives
---
 📬 Contact & Collaboration
+---
 For demo access, integration support, or academic/industry collaboration:
 
-📧 Email: pragadheeshpragadheesh75@gmail.com
-🔗 LinkedIn: www.linkedin.com/in/pragadheesh-m-500218253
-📁 GitHub: https://github.com/PragadheeshM
+-📧 Email: pragadheeshpragadheesh75@gmail.com
 
+-🔗 LinkedIn: www.linkedin.com/in/pragadheesh-m-500218253
+
+-📁 GitHub: https://github.com/PragadheeshM
+
+---
 
