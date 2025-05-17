@@ -121,7 +121,7 @@ Visual dashboards include:
 -Analytics can be customized based on organizational or government needs.
 
 ### Screenshot
-![screenshot](.Screenshot.png)
+![screenshot](./screenshot.png)
 🧑‍💻 Authors
 ---
 Pragadheesh – AI & App Developer
